@@ -11,11 +11,10 @@
     Join or create uplifting community and make christ centered online friends :)
     
   
-  ## About KingsFam
+  ### About KingsFam
   <p align="center">
     KingsFam is a communication app built around large communities. KingsFam is has a <br>
     targeted audience of Christians however all are welcome! <br>
-    
     KingsFam is currently in its early stage but expect more to come soon ! ! !
 
   </p>
