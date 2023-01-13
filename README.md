@@ -18,7 +18,7 @@
   
   ### Legal disclaimer 
   <p>
-    KingsFam is a soul proprietary business. Any suggestions given for the improvement of KingsFam is appreciated. Suggestions may be acted upon or conversed between people of interest in the KingsFam app and official KingsFam representatives for the improvement of KingsFam. Assistance in the bettering of KingsFam does not grant any terms of ownership / partnership. KingsFam is a ministry but also a Christian soul proprietary business therefore such legals should be acknowledged before converging on the assistance of offering help or providing ideas to the continual development of KingsFam. 
+    KingsFam is a Jesus ministry and soul proprietary business. Any suggestions given for the improvement of KingsFam is appreciated. Suggestions may be acted upon or conversed between people of interest in the KingsFam app and official KingsFam representatives for the improvement of KingsFam. Assistance in the bettering of KingsFam does not grant any terms of ownership / partnership. KingsFam is a ministry but also a Christian soul proprietary business therefore such legals should be acknowledged before converging on the assistance of offering help or providing ideas to the continual development of KingsFam. 
   </p>
 </p>
 
