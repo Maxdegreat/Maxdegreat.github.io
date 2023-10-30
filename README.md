@@ -8,7 +8,6 @@
   WeRead is a simple app that allows users to create topics on Bible scripture and be notified on the scripture through out thier day.
 </p>
 
-# KingsFam 
   
 <p> Apple Store (App Store): coming soon  </p>
 
