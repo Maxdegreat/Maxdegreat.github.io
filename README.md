@@ -50,6 +50,6 @@
 
  #### Account Or Data Deletion:
  - To Delete Your Account or App Data Follow The Steps Below:
- - step1: Account Deletion: send an email to kingsfamdeveloper@gmail.com with a subject title: (WEREAD KINGSFAM ACC DEL: YOUR PHONENUMBER)
- > Once step one is complete and the email has been sent please allow up to 7 bussiness days for a conformation email that your account has been deleted. IMPORTANT: Be sure the phone number you provide is the same number that you used when creating your account otherwise it may take more than 7 days to confirm your account is the one being deleted.
-- step1: Data Deletion, If your would like to delete your data such as a pfp or topic your created you can do this in app. For pfp go to settings and change your profile photo. For your topic, click the topic, click edit, long press the Delete button and this will delete your topic and background picture from our databases.
+ - step1: Go to your profile page in WeRead - KingsFam app then click the settings and chose the "Delete Your Account" option.
+ > Once step one is complete your account will be perminatly deleted within the next 30 days.
+ - step1: Data Deletion, If you would like to delete your data such as a profile picture or a topic you created you can do this in app. For profile picture deletion go to settings and change your profile photo. For your topic, click the topic, click edit, long press the Delete button and this will delete your topic and background picture from our databases.
